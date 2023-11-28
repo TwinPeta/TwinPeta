@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.507a3381.css",
-    "main.js": "/static/js/main.cd92d140.js",
-    "index.html": "/index.html"
+    "main.css": "/TwinPeta/static/css/main.507a3381.css",
+    "main.js": "/TwinPeta/static/js/main.ca56b366.js",
+    "index.html": "/TwinPeta/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.cd92d140.js"
+    "static/js/main.ca56b366.js"
   ]
 }
